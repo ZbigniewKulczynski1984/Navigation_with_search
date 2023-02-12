@@ -1,4 +1,4 @@
-# Navigation with search
+# Navigation with search button
 
 ## HTML
 ## CSS
